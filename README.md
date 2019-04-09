@@ -17,6 +17,8 @@ Steps to run the application:
 
 npm start
 
+Following are screenshots of the application:
+
 ![add_review](https://user-images.githubusercontent.com/29395431/55810300-31e4ff80-5a9c-11e9-98ed-ccd2e645f3b2.png)
 ![front_books](https://user-images.githubusercontent.com/29395431/55810318-37dae080-5a9c-11e9-92db-31ef3159d9ce.png)
 ![front_log](https://user-images.githubusercontent.com/29395431/55810325-3ad5d100-5a9c-11e9-87f6-375a0410f08b.png)
