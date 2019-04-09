@@ -1,6 +1,6 @@
 BookShelf Application 
 
-• ReactJs, NodeJS
+• ReactJs, NodeJS, Express
 
 Features:
 
