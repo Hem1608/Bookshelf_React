@@ -1,6 +1,6 @@
-BookShelf Application using technologies:
+BookShelf Application 
 
-• Frontend: ReactJs
+• ReactJs, NodeJS
 
 Features:
 
@@ -9,7 +9,7 @@ The users can log in and they see
 1. Home,
 2. My Profile, 
 3. Add a review, (book record and search)
-4. My review, (add, edit and delete review: challenge faced)
+4. My review, (add, edit and delete review)
 5. Logout 
 
 
